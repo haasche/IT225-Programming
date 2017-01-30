@@ -1,0 +1,5 @@
+PART 1 Description
+
+I created 5 variables, each corresponding to the variable in the given problem. (x,y,z,k,w) I first got a number from the user and stored it in the variable, one by one. For example, i invoked getnum() method given to us and that retreived the value from the user and pushed it into the stack. I was then able to pop it and store it in the variable I created. I repeated this process for all 5 variables. Then, I did the math in a 2 variable section (x-y, total+z, total+k, total-w). I took the variables, did the algebra, then stored the answer in a variable titled total. This continued until the end of the program, where i popped the total and printed it to the screen. I used the given print method.
+
+The only issue is when the answer is negative, it does not print correctly in ascii, but rather in hex. I believe this may be a bug on the print method, but I am unsure.

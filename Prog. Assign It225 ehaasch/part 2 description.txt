@@ -1,0 +1,7 @@
+PART 2 Description
+
+This program attempts to compare 2 values given by the user. If they are equal, it goes to one location. If it goes to another. If else, it goes to the final location. For my program, I got the comparing of equals to work. 
+
+In addition, if the first value given by the user is smaller than the second, then the comparing smaller works (difference.) However, the rest of the program does not function correctly.
+
+I was unable to deterimine the exact reason. However, I believe that the reason why it does not work may be that it is not reading the variables correctly in the main top portion of the program. I am unsure as to whether this is correct or not and don't really understand the IFLT and IFEQ statements in ijvm.

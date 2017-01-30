@@ -1,0 +1,2 @@
+I used a loop for the multiplication. I added the value to the total by y times.
+I subtracted from the total z times, and used a +1 counter to find the answer.
